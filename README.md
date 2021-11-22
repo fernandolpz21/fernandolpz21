@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fernandolpz21
 - 👀 I’m interested in computer science and learning programing languages
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning...
 - 💞️ I’m looking to collaborate on proyects that will improve my programming skills
 - 📫 How to reach me:
     Mail: fernando.lpzg2@gmail.com
