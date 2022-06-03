@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fernandolpz21
 - 👀 I’m interested in software development and machine learning
 - 🌱 I’m currently learning web development using React
-- 💞️ I’m looking to collaborate on proyects that improve my programming skills. I'm also looking forward to get an internship in microsoft or any international company
+- 💞️ I’m looking to collaborate on proyects that improve my programming skills.
 - 📫 How to reach me:
     Mail: fernando.lpzg2@gmail.com
 
