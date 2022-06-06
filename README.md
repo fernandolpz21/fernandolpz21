@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fernandolpz21
-- 👀 I’m interested in software development and machine learning
+- 👀 I’m interested in software development, machine learning and artificial intelligence
 - 🌱 I’m currently learning web development using React
 - 💞️ I’m looking to collaborate on proyects that improve my programming skills.
 - 📫 How to reach me:
