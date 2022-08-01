@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @fernandolpz21
+- 📚 5th semester computer science bachelor's student
 - 👀 I’m interested in software development, machine learning and artificial intelligence
 - 🌱 I’m currently learning web development using React
 - 💞️ I’m looking to collaborate on proyects that improve my programming skills.
