@@ -1,6 +1,6 @@
 - 👋 Hello World! I’m @fernandolpz21
-- 📚 6th-semester computer science bachelor's student
-- 👀 I’m interested in software development and project management
+- 📚 QA Automation Engineer
+- 👀 I’m interested in software testing and project management
 - 🌱 I am passionate about learning and collaborating on projects that challenge me to improve my skills
 - 📫 How to reach me: fernando.lpzg2@gmail.com
 
